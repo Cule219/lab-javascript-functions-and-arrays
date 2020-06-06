@@ -1,5 +1,9 @@
 // Iteration #1: Find the maximum
 
+function blahTest() {
+  console.log('this is the iteration 1 solution');
+}
+
 // Iteration #2: Find longest word
 const words = ['mystery', 'brother', 'aviator', 'crocodile', 'pearl', 'orchard', 'crackpot'];
 
